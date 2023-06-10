@@ -4,29 +4,39 @@
 
 ## [Live URL](https://intro-component-sign-up-form-eight.vercel.app)
 
+## Technologies Used
+
+- Vite
+- React
+- TypeScript
+- Styled Components
+- axios
+
+## Getting Started
+
+To get a local copy of the project up and running, follow these steps:
+
+1.  Clone the repository:
+
+    ```shell
+    git clone https://github.com/TemuriTsutskiridze/Intro-Component-Sign-Up-Form.git
+    ```
+
+2.  Install the dependencies:
+
+    ```shell
+    cd project-name
+    npm install
+    ```
+
+3.  Start local server:
+    ```shell
+    npm run dev
+    ```
+
+## Design Preview
+
 ![image1](./public/design-preview/active-states.jpg)
 ![image2](./public/design-preview/desktop-design.jpg)
 ![image3](./public/design-preview/desktop-preview.jpg)
 ![image4](./public/design-preview/mobile-design.jpg)
-
-## Made with
-
-### Vite
-
-### React
-
-### Typescript
-
-### Styled Components
-
-## How to download
-
-### 1. Clone repository
-
-### 2. Go into project folder
-
-### 3. run "npm install" in terminal to download node modules
-
-### 4. run "npm install styled-components" to install styled-components ("yarn add styled-components" if you use yarn) + run "npm install --save-dev @types/styled-components" to install TypeScript definitions on DefinitelyTyped
-
-### 5. run "npm run dev" in terminal to start live server
